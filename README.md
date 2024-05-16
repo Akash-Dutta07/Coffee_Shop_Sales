@@ -25,12 +25,19 @@ The Data set file is provided in the repository
 🔧 Data cleaning : with the help of power query we transform & cleaned the data like edited the date time, then created extra measures like the Total_Bill for further Analysis
 
 :memo: Pivot Table:  to simplify analysis we used pivot table to answer the following Questions
-✅	How sales vary by day of week & hour of day
+
+✅How sales vary by day of week & hour of day
+
 ✅	Are there any peak time for sales activity
+
 ✅	Total sales revenue for each month
+
 ✅	How much sales vary across different store
+
 ✅	What is the locations average price/order per person 
+
 ✅	which products are the best selling in terms of revenue & quantity
+
 ✅	how do sales vary by product category & type.
 
  📊 Dashboard : Final we create the dashboard for presentation so that any individual can understand the data & get insight out of it.
