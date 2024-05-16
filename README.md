@@ -12,9 +12,10 @@ To enhance the coffee performance of the coffee shop.
 
 
 ⬇️ Download_Data_Set
+
 https://mavenanalytics.io/data-playground?page=4&pageSize=5
                     
-                    OR
+                  OR
 
 The Data set file is provided in the repository
 
@@ -24,7 +25,7 @@ The Data set file is provided in the repository
 
 🔧 Data cleaning : with the help of power query we transform & cleaned the data like edited the date time, then created extra measures like the Total_Bill for further Analysis
 
-:memo: Pivot Table:  to simplify analysis we used pivot table to answer the following Questions
+:memo: Pivot Table :  to simplify analysis we used pivot table to answer the following Questions
 
 ✅How sales vary by day of week & hour of day
 
@@ -40,7 +41,7 @@ The Data set file is provided in the repository
 
 ✅	how do sales vary by product category & type.
 
- 📊 Dashboard : Final we create the dashboard for presentation so that any individual can understand the data & get insight out of it.
+ 📊 Dashboard : Finally, we create the dashboard for presentation so that any individual can understand the data & get insight out of it.
 
 
 This is the Final Dashboard
